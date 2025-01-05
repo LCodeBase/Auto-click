@@ -32,7 +32,7 @@ To run this project, you will need the following:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/automated-keyboard-mouse.git
+    git clone https://github.com/LCodeBase/automated-keyboard-mouse.git
     ```
 
 2. Navigate to the project directory:
