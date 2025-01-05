@@ -1,1 +1,5 @@
-{"tecla_ou_botao": "mouse1", "velocidade": 1.0, "posicao_click": null}
+{
+  "key_or_button": "mouse1",
+  "speed": 1.0,
+  "click_position": null
+}
